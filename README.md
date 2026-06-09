@@ -2,19 +2,17 @@
 
 **Вайбкодер в процессе ⚡ | Прохожу интенсив по ИИ-разработке**
 
-Сейчас я на финишной прямой комплексной программы, которая даёт мне навыки для фриланса:
+Сейчас я на финишной прямой комплексной программы:
 - 🧠 Промпт-инжиниринг (стратегии и техники)
 - 🔌 No‑code и API-интеграции
-- 🎨 Мультимодальные модели (генерация текста, изображений, аудио)
-- 📚 Ассистенты с памятью: базы знаний, RAG, Relevance
-- 🚀 От MVP до продакшена: разработка и масштабирование ИИ-решений
-- 💼 Подготовка к выходу на фриланс
-
-Умею превращать идеи в работающие прототипы, а скоро — в полноценные продукты.
+- 🎨 Мультимодальные модели
+- 📚 Ассистенты с памятью: RAG, базы знаний
+- 🚀 От MVP до продакшена
+- 💼 Подготовка к фрилансу
 
 ---
 
-## 📚 Моя программа обучения (что уже освоено)
+## 📚 Моя программа обучения
 
 | Модуль | Тема |
 |--------|------|
@@ -24,8 +22,6 @@
 | 5 | Ассистенты с памятью: базы знаний, RAG и Relevance |
 | Карьера 1 | Подготовка к выходу на фриланс |
 | 6 | Разработка и масштабирование ИИ-решений: от MVP к продакшену |
-
-> ✅ В процессе – применяю на практике, собираю портфолио.
 
 ---
 
@@ -47,14 +43,14 @@
 
 [![Статистика активности](https://github-readme-stats.vercel.app/api?username=semandr72-eng&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Счётчик просмотров](https://komarev.com/ghpvc/?username=semandr72-eng&color=blue)
+![Просмотры профиля](https://komarev.com/ghpvc/?username=semandr72-eng&color=blue)
 
 ---
 
 ## 📫 Связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a7onoff72)
-[![Почта](https://img.shields.io/badge/Pochta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semandr72@gmail.com)
+[![Почта](https://img.shields.io/badge/Почта-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semandr72@gmail.com)
 
 ---
 
